@@ -8,6 +8,11 @@ This is a logger for your Roblox game
 - Time spent in server
 - Remaining Players
 
+## Example for the Logger
+
+![](./Joinmsg.png)
+![](./Leavemsg.png)
+
 ## Other information about the logger
 
 - Won't log in Studios
