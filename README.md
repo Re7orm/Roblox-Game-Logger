@@ -2,7 +2,7 @@
 
 This is a logger for your Roblox game
 
-## what does it log?
+## What does it log?
 
 - Username
 - Time spent in server
@@ -11,8 +11,7 @@ This is a logger for your Roblox game
 
 ## Example for the Logger
 
-![](./Joinmsg.png)
-![](./Leavemsg.png)
+![][def]
 
 ## Other information about the logger
 
@@ -20,7 +19,7 @@ This is a logger for your Roblox game
 - There is free space for Update Logs
 - Don't use an extended api for the discord-webhook
 
-## how to
+## How to
 
 - make a discord webhook
 - open roblox studios
@@ -37,6 +36,8 @@ Everyone can use this code, see license
 
 By changing anything on the discord channel forces you to make a new Webhook link
 
+[if you think you need an API click here](https://webhook.lewisakura.moe/)
+
 ## Make the Logger better
 
 Please modify the Logger and make it to a better one!
@@ -44,3 +45,9 @@ Please modify the Logger and make it to a better one!
 ## Get in Contact with me
 
 Discord: reformslayz (It might take me a while to reply)
+
+## Roblox ToS
+
+  [Click here to see the ToS](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use)
+
+[def]: Example.png.png
