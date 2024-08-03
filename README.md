@@ -32,22 +32,22 @@ This is a logger for your Roblox game
 
 Do not Share your webhook link with anyone
 
-Everyone can use this code, see license
-
 By changing anything on the discord channel forces you to make a new Webhook link
 
 [if you think you need an API click here](https://webhook.lewisakura.moe/)
 
+Everyone can use this code, see license
+
 ## Make the Logger better
 
 Please modify the Logger and make it to a better one!
-
-## Get in Contact with me
-
-Discord: reformslayz (It might take me a while to reply)
 
 ## Roblox ToS
 
   [Click here to see the ToS](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use)
 
 [def]: Example.png.png
+
+## Get in Contact with me
+
+Discord: reformslayz (It might take me a while to reply)
