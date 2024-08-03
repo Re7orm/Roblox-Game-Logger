@@ -7,6 +7,7 @@ This is a logger for your Roblox game
 - Username
 - Time spent in server
 - Remaining Players
+- Profile I Game with Hyperlink
 
 ## Example for the Logger
 
@@ -39,7 +40,6 @@ By changing anything on the discord channel forces you to make a new Webhook lin
 ## Make the Logger better
 
 Please modify the Logger and make it to a better one!
-
 
 ## Get in Contact with me
 
