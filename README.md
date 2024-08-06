@@ -50,4 +50,4 @@ Please modify the Logger and make it to a better one!
 
 ## Get in Contact with me
 
-Discord: reformslayz (It might take me a while to reply)
+Discord: chairm4n (It might take me a while to reply)
