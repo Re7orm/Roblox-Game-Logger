@@ -68,12 +68,7 @@ local function fmtHoursShort(seconds)
 	return string.format("%.1f h", hours)
 end
 
--- ========= RUNTIME STATE =========
--- per player:
---   startTime (unix seconds, set at join and refreshed by autosave rollover)
---   baseTotalSeconds (persisted total before this session)
---   sessionAccum (monotonic seconds accumulated by Heartbeat; avoids edge cases)
---   deviceInfo, country, premiumLabel
+
 local playerState = {}
 
 -- ========= REMOTES =========
@@ -313,3 +308,4 @@ game:BindToClose(function()
 		end
 	end
 end)
+## thanks
